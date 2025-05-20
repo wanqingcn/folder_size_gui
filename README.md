@@ -18,7 +18,7 @@
 
 ### Technical Edge
 - ⚡ Rust-native performance
-- 💻 Cross-platform binaries
+- 💻 Windows-native binaries
 - 🧩 Modular architecture
 - 📦 Auto dependency management
 
