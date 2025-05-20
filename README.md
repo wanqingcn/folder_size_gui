@@ -1,7 +1,7 @@
 # Folder Size Analyzer 
 
 ![Rust](https://img.shields.io/badge/Rust-1.60%2B-orange)
-![Cross-Platform](https://img.shields.io/badge/Platform-Windows)
+![Windows](https://img.shields.io/badge/Platform-Windows-blue)
 
 ## Key Features
 
