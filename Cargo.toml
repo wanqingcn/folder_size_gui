@@ -1,0 +1,15 @@
+[package]
+name = "folder_size_gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = { version = "0.31.1", features = ["wgpu"] }
+walkdir = "2.5.0"
+rayon = "1.10.0"
+parking_lot = "0.12.1"
+num_cpus = "1.13.1"
+clipboard-win = "5.4.0"
+trash = "5.2.2"
+egui = "0.31.1"
+rfd = "0.15.3"
